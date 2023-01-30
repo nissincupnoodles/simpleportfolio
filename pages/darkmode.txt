@@ -1,0 +1,5 @@
+<li 
+onClick={() => setDarkMode (!darkMode)}
+className=" ease-in-out duration-300 hover:scale-125 cursor-pointer pt-[8px]">
+<BsFillMoonStarsFill />
+</li>
